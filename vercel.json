@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/base/",
+      "destination": "https://vercel-analytics-test-one.vercel.app/"
+    }
+  ]
+}
